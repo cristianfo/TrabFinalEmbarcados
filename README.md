@@ -11,27 +11,26 @@ Buildroot 2018.02.4 disponível em: https://buildroot.uclibc.org/download.html
 
 Na pasta raíz do sistema, através da linha de comando, efetuar o comando
 
-''' matlab
 
+```
 make
 
-'''
+```
 
 Aguardar gerar a imagem, e executar o seguinte comando para gravar a imagem em um cartão SD:
 
-''' matlab
-
+```
 sudo dd if=output/images/sdcard.img of=dev/sdX
 
-'''
+```
 
 Onde X é a partição do cartão SD inserido no sistema, que pode ser verificado executando o comando
 
-''' matlab
 
+```
 dmesg
 
-'''
+```
 
 ## Licença
 
