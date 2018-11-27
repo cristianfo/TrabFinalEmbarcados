@@ -1,6 +1,6 @@
-# Projeto Final de Sistemas embarcados
+# Projeto Final de Sistemas embarcados - UFSC Blumenau
 
-O objetivo deste projeto é gerar um sistema de hardware e software embarcados para obter o nível de tensão analógica na entrada A0, a fim de ler os mais variados tipos de sensores normalizados entre 0 e 5V.
+O objetivo deste projeto, desenvolvido na matéria de Sistemas Embarcados, no semestre 2018/2, é gerar um sistema de hardware e software embarcados para obter o nível de tensão analógica na entrada A0, a fim de ler os mais variados tipos de sensores normalizados entre 0 e 5V.
 
 Neste projeto foram utilizados o método buildroot para gerar distribuição para o hardware Galileo Gen 2.
 
