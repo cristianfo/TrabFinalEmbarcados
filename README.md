@@ -12,7 +12,7 @@ Cartão SD > 1GB.
 
 Cabo de rede ethernet.
 
-Buildroot 2018.02.4 disponível em: https://buildroot.uclibc.org/download.html, que no linux pode ser baixado e extraido e através dos comandos shell:
+Opcional: Buildroot 2018.02.4 disponível em: https://buildroot.uclibc.org/download.html, que no linux pode ser baixado e extraido e através dos comandos shell:
 
 ```
 $ wget https://buildroot.org/downloads/buildroot-2018.02.4.tar.gz
@@ -21,7 +21,7 @@ $ tar -zxvf buildroot-2018.02.4.tar.gz
 
 ### Como usar
 
-Na pasta raíz do sistema, através da linha de comando, efetuar o comando
+Após clonar ou baixar este projeto, na pasta raíz do sistema, através da linha de comando, execute o comando:
 
 
 ```
